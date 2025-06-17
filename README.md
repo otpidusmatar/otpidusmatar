@@ -1,8 +1,10 @@
-## Just a guy who likes to play around with ideas
-Currently working on:
+***Just a guy who likes to play around with ideas***
+
+## Current Projects
 - Persona, a low-training speech-emotion recognition model with high classification accuracies
 - BumperVision, a collection of computer vision and ML ideas to design autonomous robot systems (going beyond PathPlanner)
 
+"Master the fundamentals beyond the code, and you shall be unstoppable."
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otpidusmatar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
