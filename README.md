@@ -1,4 +1,6 @@
-***Just a guy who likes to play around with ideas***
+## ***I'm just a guy who likes to play around with code and ideas***
+    
+    Status Update: Currently exploring the vast realm of possibilities with Vim
 
 ## Current Projects
 - Persona, a low-training speech-emotion recognition model with high classification accuracies
