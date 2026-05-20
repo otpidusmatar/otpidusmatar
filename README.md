@@ -1,15 +1,12 @@
-## ***I'm just a guy who likes to play around with code and ideas***
-    
+## "Master the fundamentals beyond the code, and you shall be unstoppable." 
     Status Update: Working on Nodes
-
-## Current Projects
+![Metrics](https://github.com/otpidusmatar/otpidusmatar/blob/main/github-metrics.svg)
+## Unresolved Passion Projects
+*(Ideas I'm working on)*
+- Nodes, a logical knowledge graph of everything, mapped temporally
 - Persona, a low-training speech-emotion recognition model with high classification accuracies
 - BumperVision, a collection of computer vision and ML ideas to design autonomous robot systems (going beyond PathPlanner)
 
-"Master the fundamentals beyond the code, and you shall be unstoppable."
-
-## Github Metrics
-![Metrics](https://github.com/otpidusmatar/otpidusmatar/blob/main/github-metrics.svg)
 <!--
 **otpidusmatar/otpidusmatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
