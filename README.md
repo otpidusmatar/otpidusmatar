@@ -1,5 +1,4 @@
 ## "Master the fundamentals beyond the code, and you shall be unstoppable." 
-    Status Update: Working on Nodes
 ![Metrics](https://github.com/otpidusmatar/otpidusmatar/blob/main/github-metrics.svg)
 ## Unresolved Passion Projects
 *(Ideas I'm working on)*
