@@ -9,8 +9,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_padding: 0, 5%
           token: ${{ secrets.METRICS_TOKEN }}
-
+          
           user: otpidusmatar
           config_timezone: America/Chicago
           plugin_languages: yes
