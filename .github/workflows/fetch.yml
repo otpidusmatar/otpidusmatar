@@ -12,8 +12,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: otpidusmatar
-          template: classic
-          base: repositories
           config_timezone: America/Chicago
           plugin_languages: yes
           plugin_languages_colors: github
