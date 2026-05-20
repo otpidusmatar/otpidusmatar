@@ -15,13 +15,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          plugin_contributors: yes
-          plugin_contributors_head: master
-          plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -30,8 +23,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
           plugin_stars_limit: 4
