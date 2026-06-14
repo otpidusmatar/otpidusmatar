@@ -2,7 +2,7 @@
 ![Metrics](https://github.com/otpidusmatar/otpidusmatar/blob/main/github-metrics.svg)
 ## Unresolved Passion Projects
 *(Ideas I'm working on)*
-- Nodes, a logical knowledge graph of everything, mapped temporally
+- Nodes, a logical knowledge graph of everything, mapped temporally (...except I just discovered Obsidian)
 - Persona, a low-training speech-emotion recognition model with high classification accuracies
 - BumperVision, a collection of computer vision and ML ideas to design autonomous robot systems (going beyond PathPlanner)
 
